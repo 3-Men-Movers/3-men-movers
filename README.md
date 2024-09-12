@@ -1,6 +1,6 @@
 # 3 Men Movers Open-Source Projects
 
-Welcome to the official open-source repository for **3 Men Movers**, a moving company dedicated to providing reliable, efficient, and customer-focused moving services. This repository serves as a space for sharing and maintaining the technology that powers our business, allowing us to improve and innovate in the moving industry. You can learn more about our services at [3MenMovers.com](https://www.3menmovers.com/).
+Welcome to the official open-source repository for **3 Men Movers**, a moving company dedicated to providing reliable, efficient, and customer-focused moving services. This repository serves as a space for sharing and maintaining the technology that powers our business, allowing us to improve and innovate in the moving industry. You can learn more about our services at [3menmovers.com](https://www.3menmovers.com/).
 
 ## What You'll Find Here:
 - **Web Applications**: Tools that simplify and streamline our moving services, such as scheduling, customer engagement, and real-time tracking.
@@ -14,4 +14,4 @@ We welcome contributions from developers of all levels. Whether you're fixing bu
 ## License:
 This repository is licensed under the MIT License, promoting collaboration, sharing, and innovation in the moving industry and beyond.
 
-Visit our website at [3MenMovers.com](https://www.3menmovers.com/) to learn more about how we’re transforming moving services through technology.
+Visit our website at [3menmovers.com](https://www.3menmovers.com/) to learn more about how we’re transforming moving services through technology.
